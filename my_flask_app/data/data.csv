@@ -1,0 +1,4 @@
+text,category
+LangChain is a powerful framework for building language model applications.,framework
+Flask is a lightweight web framework for Python.,framework
+Ollama is a local LLM runner that can generate embeddings or completions.,tool
